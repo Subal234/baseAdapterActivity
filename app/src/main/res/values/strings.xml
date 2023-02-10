@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">baseAdapterActivity</string>
+    <string name="update">update</string>
+    <string name="add">add</string>
+    <string name="phoneNo">phone No</string>
+    <string name="roll_no">Roll no</string>
+    <string name="name">name</string>
+</resources>
